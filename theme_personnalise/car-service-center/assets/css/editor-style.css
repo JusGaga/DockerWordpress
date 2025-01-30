@@ -134,7 +134,7 @@ h6 {
   font-size: 0.71111em;
 }
 
-a:hover, a:active, {
+a:hover, a:active{
   color: #005177;
   outline: 0;
   text-decoration: none;
